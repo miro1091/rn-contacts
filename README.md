@@ -7,7 +7,7 @@
 #### instalation:
 
 ```shell
-$ git clone https://github.com/miro1091/react-native-contacts.git
+$ git clone https://github.com/miro1091/rn-contacts.git
 $ cd react-native-contacts
 $ yarn
 ```
