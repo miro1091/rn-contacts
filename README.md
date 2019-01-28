@@ -8,7 +8,7 @@
 
 ```shell
 $ git clone https://github.com/miro1091/rn-contacts.git
-$ cd react-native-contacts
+$ cd rn-contacts
 $ yarn
 ```
 
