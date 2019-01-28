@@ -1,0 +1,8 @@
+dependencies: \
+  /Users/miro1091/Desktop/testRN/react-native-navigation-redux-starter-kit/node_modules/react-native/React/Views/RCTBorderDrawing.m \
+  /Users/miro1091/Desktop/testRN/react-native-navigation-redux-starter-kit/node_modules/react-native/React/Views/RCTBorderDrawing.h \
+  /Users/miro1091/Desktop/testRN/react-native-navigation-redux-starter-kit/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/miro1091/Desktop/testRN/react-native-navigation-redux-starter-kit/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/miro1091/Desktop/testRN/react-native-navigation-redux-starter-kit/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/miro1091/Desktop/testRN/react-native-navigation-redux-starter-kit/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/miro1091/Desktop/testRN/react-native-navigation-redux-starter-kit/node_modules/react-native/React/Base/RCTUtils.h

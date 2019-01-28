@@ -1,0 +1,7 @@
+dependencies: \
+  /Users/miro1091/Desktop/react-native-contacts/node_modules/react-native/ReactCommon/yoga/yoga/YGFloatOptional.cpp \
+  /Users/miro1091/Desktop/react-native-contacts/node_modules/react-native/ReactCommon/yoga/yoga/YGFloatOptional.h \
+  /Users/miro1091/Desktop/react-native-contacts/node_modules/react-native/ReactCommon/yoga/yoga/Yoga.h \
+  /Users/miro1091/Desktop/react-native-contacts/node_modules/react-native/ReactCommon/yoga/yoga/YGEnums.h \
+  /Users/miro1091/Desktop/react-native-contacts/node_modules/react-native/ReactCommon/yoga/yoga/YGMacros.h \
+  /Users/miro1091/Desktop/react-native-contacts/node_modules/react-native/ReactCommon/yoga/yoga/Yoga-internal.h
